@@ -1,5 +1,5 @@
 def calculator(a,b):
-  print("addition")
+  print("addition {}".format(a+b))
   print(a+b)
   print("subtraction")
   print(a-b)
