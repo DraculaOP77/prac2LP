@@ -1,3 +1,2 @@
-a = 10
-b =20
-print(a+b)
+def calculator(a,b):
+  print("adittion is"+ (a+b))
